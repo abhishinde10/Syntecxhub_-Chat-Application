@@ -5,7 +5,7 @@ import Chat from './components/Chat';
 import './App.css';
 
 // Using import.meta.env for Vite environment variables
-const socket = io(import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000');
+const socket = io(import.meta.env.VITE_API_URL);
 
 function App() {
   const [username, setUsername] = useState('');

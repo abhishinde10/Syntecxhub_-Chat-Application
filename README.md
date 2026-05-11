@@ -4,8 +4,8 @@ A full-stack, real-time messaging web application built with the MERN stack (Mon
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel)**: [Link to Vercel Deploy]
-- **Backend API (Render)**: [Link to Render Deploy]
+- **Frontend (Vercel)**: [https://syntecxhub-chat-application-drab.vercel.app](https://syntecxhub-chat-application-drab.vercel.app)
+- **Backend API (Render)**: [https://syntecxhub-chat-application-ys9s.onrender.com](https://syntecxhub-chat-application-ys9s.onrender.com)
 
 ---
 
